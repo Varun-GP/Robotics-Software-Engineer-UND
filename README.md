@@ -1,7 +1,7 @@
 # Robotics-Software-Engineer-UND
 My learnings and project files of Udacity's Robotics Software Engineer Nanodegree
 
-## PART 1 Introduction to Robotics ##
+__PART 1 Introduction to Robotics__
 Getting familiar with ROS, Gazebo.
 
 PART 2
