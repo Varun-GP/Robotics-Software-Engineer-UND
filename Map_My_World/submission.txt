@@ -1,0 +1,9 @@
+Instructions:
+
+
+1)	rtabmap.db is RTABMAP database file showing 8 loop closures (Since my map is relatively big, size of file is 1.1GB)
+
+2)	Link to download my .db file from Google Drive (Please find rtabmap.db file inside Project4 folder): https://drive.google.com/file/d/1fJr93NbbyTAhp_ll2xnuc-NJAbT4oXAG/view?usp=sharing
+
+
+3)	map_my_world.sh makes easier to run all launch files. 
